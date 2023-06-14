@@ -1,0 +1,110 @@
+.main_bg{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(236, 248, 255);
+    background-image: url(울릉도4.png);     
+    justify-content: center;
+}
+.title_part{
+    height: 190px;
+    width: 100%;
+    background-color: rgba(90, 92, 218, 0.592);
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+.content_main_title {
+    color: rgb(53, 54, 124);
+    font-size: x-large;
+    
+}
+
+.content_title {
+    color: rgb(90, 92, 218);
+    font-size: medium;
+    
+    
+    
+}
+
+.content {
+    color: black;
+    font-size:large;
+}
+
+.content_big_title {
+    color:black;
+    font-size:xx-large;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.content_title_chart {
+    color: rgb(90, 92, 218);
+    font-size: medium;
+    display: flex;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.blockeffect {
+    background-color: rgba(204, 205, 246, 0.647);
+    margin: 50px;
+}
+
+.content_title_tag {
+    color: rgb(90, 92, 218);
+    font-size: medium;
+}
+
+
+.content_title_white{
+
+    color: white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+
+.blockeffect2 {
+    background-color: rgba(71, 74, 255, 0.427);
+    margin: 50px;
+}
+
+
+
+
+header {
+    height: 30px;
+    padding: 1rem;
+    color: white;
+    background: rgb(64,74,158);
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  a {
+    text-decoration-line: none;
+  }
+  
+  a:link {
+    color : white;
+  }
+  a:visited {
+    color : white;
+  }
+  a:hover {
+    color : gainsboro;
+  }
+  a:active {
+    color : white
+  }
+  
